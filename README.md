@@ -2,7 +2,7 @@
 Simple AOP implementation based on the java.lang.reflect.Proxy class <br/>
 Supports enhancement for objects whose classes implementing at least one interface
 
-It supports the following set of enhancement:
+It supports the following set of enhancements:
 + After a method invocation
 + Before a method invocation
 + Instead of a method invocation with substitution of the return value
